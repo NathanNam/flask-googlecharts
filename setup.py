@@ -17,7 +17,7 @@ extra = {}
 install_requires = ['Flask>=0.10.1']
 setup(
     name='Flask-GoogleCharts',
-    version='0.0.2',
+    version='0.0.3',
     url='http://github.com/wikkiewikkie/flask-googlecharts/',
     license='MIT',
     author='Kevin Schellenberg',
